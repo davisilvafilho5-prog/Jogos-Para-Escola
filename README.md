@@ -3,7 +3,7 @@
 > **Status:bem :)** Funcionando nos PCs da escola ✅
 
 ## 📥 Download
-Para baixar o jogo pronto para jogar, vá até a aba realeases
+1. Para baixar o jogo pronto para jogar, vá até a aba realeases
 e escolha seu jogo
 ---
 
