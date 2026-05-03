@@ -12,7 +12,7 @@ e escolha seu jogo
 2. Extraia os arquivos para uma pasta (se for zip).
 3. Clique duas vezes em `nome-do-jogo.exe` para começar.
 
-! [https://pt.wallpapers.com/papeis-de-parede/steve-em-grass-and-diamond-minecraft-hd-728mmi5xjwbmtf79.html]
+![https://pt.wallpapers.com/papeis-de-parede/steve-em-grass-and-diamond-minecraft-hd-728mmi5xjwbmtf79.html]
 
 ## ⚠️ Observação
 Se o Windows pedir permissão, clique em "Mais informações" e depois em "Executar assim mesmo".
