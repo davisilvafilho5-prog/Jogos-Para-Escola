@@ -4,7 +4,7 @@
 
 ## 📥 Download
 Para baixar o jogo pronto para jogar, vá até a aba realeases
-e escolha sei jogo
+e escolha seu jogo
 ---
 
 ## 🛠️ Como instalar/rodar
