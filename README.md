@@ -10,7 +10,7 @@ e escolha seu jogo
 ## 🛠️ Como instalar/rodar
 1. Baixe o arquivo `.zip` ou `.exe` acima.
 2. Extraia os arquivos para uma pasta (se for zip).
-3. Clique duas vezes em `nome-do-jogo.exe` para começar.
+3. Clique duas vezes no seu jogo `jogo.exe` para começar.
 
 
 
